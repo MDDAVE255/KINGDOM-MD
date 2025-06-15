@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/0kwukb.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KINGDOM-MD",
+BOT_NAME: process.env.BOT_NAME || "MD-DAVE",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KINGDOM-MD",
 // type sticker pack name 
@@ -35,11 +35,11 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255654667145",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "255774808842",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "KINGDOM-MD",
+OWNER_NAME: process.env.OWNER_NAME || "MD-DAVE",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 KINGDOM-MD*",
 // add bot owner name    
@@ -51,11 +51,11 @@ READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words  
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
-ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
